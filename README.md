@@ -25,6 +25,12 @@ $ cd webscrapping-puppeteer
 $ npm install 
 $ node index.js
 ```
-Após a execução do servidor, abrir o arquivo index.html e visualizar os arquivos.
+Após a execução do servidor, abrir o arquivo index.html e visualizar os arquivos. Caso ocorra erro no HTML, utilizar o lite-server
+
+```sh
+
+$ npx lite-server
+
+```
 
 Este projeto foi criado com o intuito para estudos e aprendizagem (para escrever o README.MD também).
